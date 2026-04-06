@@ -208,6 +208,8 @@ It is particularly relevant for **high-dimensional physics-driven systems** wher
 
 For questions regarding methodology, implementation, or collaboration, please contact the authors through their institutional or professional profiles.
 
+email: dsouza@uwm.edu
+
 ---
 
 ## Copyright
